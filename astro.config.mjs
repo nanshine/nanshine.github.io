@@ -20,5 +20,11 @@ export default defineConfig({
   },
   site: 'https://nanshine.github.io',
   base: '/',
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      // Only list active pages in the sitemap (other sections are
+      // disabled in src/config/pages.ts and would 404-redirect)
+      filter: (page) => new URL(page).pathname === '/',
+    }),
+  ],
 });
