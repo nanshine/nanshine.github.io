@@ -24,7 +24,7 @@ export const SOCIALS: SocialLink[] = [
 export const SOCIAL_ICONS: Record<string, string> = {
     Github: "Github",
     Mail: "Mail",
-    Blog: "ExternalLink",
+    Blog: "World",
     Linkedin: "LinkedIn",
     "Google Scholar": "GoogleScholar",
     ORCID: "ORCID",
