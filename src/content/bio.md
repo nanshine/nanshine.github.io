@@ -7,7 +7,7 @@ institution: "Fudan University"
 
 I am a master's student in Statistics at the School of Data Science, Fudan University (2024–2027), advised by Prof. Zhongyu Wei at the Fudan Data Intelligence and Social Computing Lab (Fudan DISC). I received my B.E. in Software Engineering from Tongji University in 2024.
 
-My research focuses on large language models, with particular interests in LLM agents, LLMs for healthcare, and LLM safety. I am currently a research intern at Alibaba Token Hub (ATH).
+My research focuses on large language models, with particular interests in **LLM agents**, **LLMs for healthcare**, and **LLM safety**. I am currently a research intern at Alibaba Token Hub (ATH).
 
 ## Publications
 
