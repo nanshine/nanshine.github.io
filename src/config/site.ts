@@ -2,9 +2,9 @@ import type { SiteConfig, ThemeConfig, SettingsConfig, UmamiAnalyticsConfig, Ana
 
 export const SITE: SiteConfig = {
     website: "https://nanshine.github.io/",
-    author: "Zhuohan Long (Nanshine)",
+    author: "Zhuohan Long",
     desc: "Personal academic homepage of Zhuohan Long, master's student at the School of Data Science, Fudan University, working on LLM agents, LLMs for healthcare, and LLM safety.",
-    title: "Zhuohan Long (Nanshine)",
+    title: "Zhuohan Long",
     ogImage: "avator.jpg",
     postPerPage: 5,
     favicon: "/favicon.svg",
