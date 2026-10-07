@@ -1,7 +1,7 @@
 ---
-name: "Zhuohan Long (Nanshine)"
+name: "Zhuohan Long"
 avatar: "avator.jpg"
-shortBio: "Master's student at the School of Data Science, Fudan University"
+shortBio: "Master's student at the School of Data Science"
 institution: "Fudan University"
 ---
 
