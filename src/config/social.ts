@@ -14,6 +14,12 @@ export const SOCIALS: SocialLink[] = [
         isActive: true,
     },
     {
+        name: "Google Scholar",
+        href: "https://scholar.google.com/citations?user=5tjJqAgAAAAJ&hl=en",
+        linkTitle: `Zhuohan Long on Google Scholar`,
+        isActive: true,
+    },
+    {
         name: "Blog",
         href: "https://nanshine.me/",
         linkTitle: `Zhuohan Long's Blog`,
